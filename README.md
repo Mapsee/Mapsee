@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello!
+
+I'm Nicole, a third-year student at the University of Toronto pursuing a computer science specialist and a math minor. 
+
+## Contact 
+- Email: nxinleung@gmail.com
+- Discord: nxinl
 
 <!--
 **Mapsee/Mapsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
