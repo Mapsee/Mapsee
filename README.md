@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Nicole, a third-year student at the University of Toronto pursuing a computer science specialist and a math minor. 
+I'm Nicole, a fourth-year student at the University of Toronto pursuing a computer science specialist and a math minor. 
 
 ## Contact 
 - Email: nxinleung@gmail.com
